@@ -2,7 +2,7 @@
 
 <h4>👨‍💻 I'm a Computer Science undergrad passionate about building user-focused products and solving real-world problems. I enjoy working across development, algorithms, and exploring the possibilities of AI and machine learning.</h4>
 
-<h3>Connect with me:</h3>
+<h3>Socials:</h3>
 <p>
   <a href="https://linkedin.com/in/vishwa-chawda-590785289" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vishwa-chawda-590785289" height="30" width="40" />
